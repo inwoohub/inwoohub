@@ -7,7 +7,7 @@
   <a href="https://inscowoo.tistory.com/"><img src="https://img.shields.io/badge/inwoo.tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://solved.ac/profile/dlsdndls"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlsdndls&theme=dark"/></a>
 
 
-## 🛠 Skill
+## 📖 Study
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
