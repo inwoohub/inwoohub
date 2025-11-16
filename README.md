@@ -6,7 +6,6 @@
 ## 💁🏻‍♂️ About Me
   <a href="https://glib-chocolate-c1c.notion.site/2730b0d8d93680a185a4e2b396bad36a?pvs=73/"><img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" /></a> <a href="https://inscowoo.tistory.com/"><img src="https://img.shields.io/badge/inwoo.tistory-E5511E?style=badge&logo=Tistory&logoColor=white"/></a> <a href="https://solved.ac/profile/dlsdndls"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dlsdndls&theme=dark"/></a>
 
-https://glib-chocolate-c1c.notion.site/2730b0d8d93680a185a4e2b396bad36a
 
 ## 📖 Study
 <div>
