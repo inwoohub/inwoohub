@@ -26,7 +26,7 @@
 ## 🗂️ Project 
 |기간|프로젝트|소개|바로가기|
 |:-:|:-|:-|:-:|
-|<sub>25.04~25.10</sub> | *⚽️축구 직관 웹서비스* | Football Match Attendance Tracking Web Service | [🐈](https://inscowoo.tistory.com/15) &nbsp; [🌐](https://www.myfcseoul.com) |
+|<sub>25.04~25.10</sub> | *⚽️축구 직관 웹서비스* | Football Match Attendance Tracking Web Service | [🐈](https://github.com/inwoohub/myFCsoul-public) &nbsp; [🌐](https://www.myfcseoul.com) |
 |<sub>24.09~25.10</sub> | *🤖 AI 협업 툴* | AI Collaboration Tool | [🐈](https://github.com/inwoohub/Infloop) &nbsp;|
 
 
