@@ -1,6 +1,6 @@
 <!-- ❄️ 눈 내리는 배너 -->
 <p align="center">
-  <img src="./star.gif" alt="snow effect" width="100%" />
+  <img src="./star3.gif" alt="snow effect" width="100%" />
 </p>
 
 <div align="">
