@@ -20,16 +20,12 @@
   <!-- <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> -->
 </div>
 
-  ---
-
 ## Project 
 |기간|프로젝트|소개|바로가기|
 |:-:|:-:|:-:|:-:|
 |<sub>25.12~26.01</sub> | *📆회의실 예약 웹서비스* | Meeting Room Reservation Web Service | [🐈](https://github.com/HwangSo2026) &nbsp; [🌐](https://meethub.inwoohub.com) |
 |<sub>25.04~25.10</sub> | *⚽️축구 직관 웹서비스* | Football Match Attendance Tracking Web Service | [🐈](https://github.com/inwoohub/myFCsoul-public) &nbsp; [🌐](https://www.myfcseoul.com) |
 |<sub>24.09~25.10</sub> | *🤖 AI 협업 툴* | AI Collaboration Tool | [🐈](https://github.com/inwoohub/Infloop) &nbsp;|
-
----
 
 ## Activity
 
