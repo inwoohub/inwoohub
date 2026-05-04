@@ -3,7 +3,7 @@
   <img src="./snow_loop(3).gif" alt="snow effect" width="100%" />
 </p> -->
 
-<div align="">
+<!-- <div align=""> -->
   <!-- <br/> -->
 <!-- <img align="right" width="50" src="https://github.com/user-attachments/assets/575455ee-b06a-4258-994d-b39337c010e2" />  -->
   
