@@ -30,7 +30,7 @@
 ## Study Projects
 |기간|프로젝트|소개|바로가기|
 |:-:|:-:|:-:|:-:|
-|<sub>26.05</sub> | *Kafka 기반 비회원 콘서트 예매 시스템* | Kafka·Redis 기반 예매 병목 분석과 재고 정합성 개선 학습 프로젝트 | [🐈](https://github.com/inwoohub/Reservation_Kafka_Study) |
+|<sub>26.05</sub> | *Kafka 기반 비회원 콘서트 예매 시스템* | Kafka·Redis 기반 예매 병목 분석과 재고 정합성 개선 학습 프로젝트 | [Github](https://github.com/inwoohub/Reservation_Kafka_Study) |
 
 ## Activity
 
