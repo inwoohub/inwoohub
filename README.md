@@ -23,9 +23,9 @@
 ## Projects
 |기간|프로젝트|소개|바로가기|
 |:-:|:-:|:-:|:-:|
-|<sub>26.03~26.05</sub> | *축구 직관 웹서비스 v2* | 축구 직관 기록, 경기 일정 관리, Keycloak 기반 인증 구조를 적용한 웹 서비스 | [🐈](https://github.com/FCRaichu/backend) &nbsp; [🌐](https://fc-raichu.vercel.app) |
-|<sub>25.12~26.01</sub> | *회의실 예약 웹서비스* | Redis 기반 예약 동시성 제어와 TTL 만료 전략을 적용한 회의실 예약 서비스 | [🐈](https://github.com/HwangSo2026) &nbsp; [🌐](https://meethub.inwoohub.com) |
-|<sub>25.04~25.10</sub> | *축구 직관 웹서비스 v1* | 축구 직관 기록과 경기 일정 관리를 위한 초기 버전 웹서비스 | [🐈](https://github.com/inwoohub/myFCsoul-public) &nbsp; |
+|<sub>26.05~26.06</sub> | *재고 관리 ERP* | 자동차 부품 유통 업무를 대상으로 한 MSA 재고 관리 ERP 서비스 | [Github](https://github.com/BBD-AES) &nbsp; |
+|<sub>26.03~26.05</sub> | *축구 직관 웹서비스* | 축구 직관 기록, 경기 일정 관리, Keycloak 기반 인증 구조를 적용한 웹 서비스 | [Github](https://github.com/FCRaichu/backend) &nbsp; [🌐](https://fc-raichu.vercel.app) |
+|<sub>25.12~26.01</sub> | *회의실 예약 웹서비스* | Redis 기반 예약 동시성 제어와 TTL 만료 전략을 적용한 회의실 예약 서비스 | [Github](https://github.com/HwangSo2026) &nbsp; [🌐](https://meethub.inwoohub.com) |
 
 ## Study Projects
 |기간|프로젝트|소개|바로가기|
@@ -36,4 +36,4 @@
 
 |기간|활동|기수|
 |:-:|:-:|:-:|
-|<sub>25.12~현재</sub> | 현대오토에버 모빌리티 SW 스쿨 (웹∙앱) | 3기 |
+|<sub>25.12~26.06</sub> | 현대오토에버 모빌리티 SW 스쿨 (웹∙앱) | 3기 |
