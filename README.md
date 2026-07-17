@@ -26,7 +26,7 @@
 |<sub>26.07~진행중</sub> | *지적기준점 관리 시스템* | 지적기준점의 위치·현장조사·사진·망실 여부·조사 현황 통합 관리 시스템 | [Github](https://github.com/Bucheon-Cadastral-System) &nbsp; |
 |<sub>26.05~26.06</sub> | *재고 관리 ERP* | 자동차 부품 유통 업무를 대상으로 한 MSA 재고 관리 ERP 서비스 | [Github](https://github.com/BBD-AES) &nbsp; |
 |<sub>26.03~26.05</sub> | *축구 직관 웹서비스* | 축구 직관 기록, 경기 일정 관리, Keycloak 기반 인증 구조를 적용한 웹 서비스 | [Github](https://github.com/FCRaichu/backend) &nbsp; [🌐](https://fc-raichu.vercel.app) |
-|<sub>25.12~26.01</sub> | *회의실 예약 웹서비스* | Redis 기반 예약 동시성 제어와 TTL 만료 전략을 적용한 회의실 예약 서비스 | [Github](https://github.com/HwangSo2026) &nbsp; [🌐](https://meethub.inwoohub.com) |
+|<sub>25.12~26.01</sub> | *회의실 예약 웹서비스* | Redis 기반 예약 동시성 제어와 TTL 만료 전략을 적용한 회의실 예약 서비스 | [Github](https://github.com/HwangSo2026) &nbsp;|
 
 ## Study Projects
 |기간|프로젝트|소개|바로가기|
